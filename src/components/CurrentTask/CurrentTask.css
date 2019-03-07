@@ -1,0 +1,21 @@
+.DisplayTasks {
+  position: relative;
+}
+
+.CurrentTask {
+  font-size: 18px;
+  margin-top: 16px;
+  font-weight: normal;
+  cursor: default;
+}
+
+.deleteIcon {
+  cursor: pointer;
+  position: absolute;
+  right: 2px;
+  color: #b8b9ba;
+}
+.Block {
+  display: inline-block;
+  position: absolute;
+}

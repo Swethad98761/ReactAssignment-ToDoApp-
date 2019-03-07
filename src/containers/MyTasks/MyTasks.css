@@ -1,0 +1,22 @@
+.MyTasks {
+  width: 140%;
+  height: 400px;
+  font-size: 25px;
+  margin-left: 30px;
+  margin-top: 50px;
+  font-family: Arial;
+  padding-left: 10px;
+  color: #4f4f4f;
+}
+.Card {
+  font-size: 20px;
+  width: 450px;
+  height: 450px;
+  background-color: white;
+  box-shadow: 1px 1px 1px #b8b5b4;
+}
+.Tasks {
+  margin: 10px;
+  padding: 10px;
+  cursor: pointer;
+}

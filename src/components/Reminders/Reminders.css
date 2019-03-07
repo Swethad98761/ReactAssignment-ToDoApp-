@@ -1,0 +1,12 @@
+.Reminder {
+  margin: 10px;
+}
+
+.ReminderButton {
+  width: 90%;
+  height: 30px;
+  margin: 10px;
+  border-radius: 30px;
+  border: none;
+  cursor: pointer;
+}

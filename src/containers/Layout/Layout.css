@@ -1,0 +1,80 @@
+.Layout {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+}
+.Top {
+  height: 60px;
+  padding-top: 10px;
+  padding-left: 10px;
+  -webkit-box-shadow: 1px 1px 1px #b8b5b4;
+  -moz-box-shadow: 1px 1px 1px #b8b5b4;
+  box-shadow: 1px 1px 1px #b8b5b4;
+}
+.Left {
+  margin-top: 70px;
+  width: 17%;
+  padding-top: 20px;
+  padding-left: 20px;
+  box-shadow: 1px 1px 1px #b8b5b4;
+  color: #42b7dd;
+}
+.Content {
+  margin-top: 72px;
+  margin-left: 243px;
+  position: inline;
+  background-color: #f4f6f7;
+  display: inline-block;
+  position: relative;
+}
+.Button {
+  background-color: #3582ce;
+  border: none;
+  color: white;
+  border-radius: 23px;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin-top: 7px;
+  margin-left: 80px;
+  cursor: pointer;
+  position: fixed;
+}
+.MenuIcon {
+  margin-top: 10px;
+  margin-left: 18px;
+  cursor: pointer;
+  width: 50px;
+  height: 40px;
+  position: fixed;
+}
+.Default {
+  background-color: #f4f6f7;
+  margin-top: 72px;
+  width: 18%;
+  box-shadow: none;
+}
+.Input {
+  padding: 0;
+  margin: 0;
+  width: 80%;
+  border: 0;
+  font-size: 22px;
+  color: #676768;
+}
+.Block {
+  display: inline-block;
+  position: absolute;
+}
+.Image {
+  display: inline-block;
+  margin-left: 500px;
+  margin-top: 40px;
+  position: absolute;
+  width: 30%;
+  height: 50%;
+}
